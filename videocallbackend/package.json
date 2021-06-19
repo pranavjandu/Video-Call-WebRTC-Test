@@ -1,0 +1,16 @@
+{
+  "name": "videocallbackend",
+  "version": "1.0.0",
+  "description": "Node.js backend for testing video call feature",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pranav jandu",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "epress": "0.0.1-security",
+    "socket.io": "^4.1.2"
+  }
+}
